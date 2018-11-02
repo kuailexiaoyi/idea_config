@@ -1,0 +1,367 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/stocktakeMapper.xml" timestamp="1464578880362">
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="445" column="14" />
+        <mark key="." line="445" column="14" />
+      </file>
+      <file name="E:/workspace/brandcrawler/src/js-main/branddata_regular.js" timestamp="1502432502766">
+        <mark key="[" line="326" column="36" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0dcda420-4a52-412e-8f00-21287ef2898b/console.sql" timestamp="1478520096710">
+        <mark key="[" line="1578" column="33" />
+        <mark key="]" line="1465" column="13" />
+        <mark key="^" line="1465" column="13" />
+        <mark key="." line="1465" column="13" />
+      </file>
+      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/resources/applicationContext-wms.xml" timestamp="1478153193502">
+        <mark key="[" line="14" column="121" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="49" column="17" />
+        <mark key="^" line="15" column="7" />
+      </file>
+      <file name="/a.dummy" timestamp="1464578847723">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/427e52f5-a8e0-4079-affe-ce0857d9bb27/console.sql" timestamp="1490334539185">
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="39" column="54" />
+        <mark key="^" line="49" column="9" />
+        <mark key="." line="39" column="54" />
+      </file>
+      <file name="E:/project/readfiles/file2csv.py" timestamp="1477457123013">
+        <mark key="'" line="215" column="14" />
+        <mark key="[" line="247" column="13" />
+        <mark key="]" line="247" column="14" />
+        <mark key="^" line="247" column="14" />
+        <mark key="." line="247" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a17f433-5d7f-4a74-8ba0-e43c06246a48/console.sql" timestamp="1471514894934">
+        <mark key="[" line="293" column="18" />
+        <mark key="]" line="293" column="19" />
+        <mark key="." line="293" column="19" />
+        <mark key="^" line="293" column="19" />
+      </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/Item.java" timestamp="1506317040378">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1464578847716">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
+        <mark key="[" line="78" column="107" />
+      </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/payload/SplItemsBean.java" timestamp="1506317774874">
+        <mark key="'" line="39" column="26" />
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="38" column="38" />
+      </file>
+      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/java/com/voyageone/batch/wms/service/SynOrderToOldSynshipService.java" timestamp="1477535231721">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="58" column="30" />
+        <mark key="." line="58" column="30" />
+        <mark key="^" line="58" column="30" />
+      </file>
+      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" timestamp="1464598126741">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="141" column="28" />
+        <mark key="]" line="141" column="28" />
+        <mark key="^" line="141" column="28" />
+        <mark key="." line="141" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled1/src/com/company/Main.java" timestamp="1460352768277">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="E:/project/voyageone-parent/voyageone-service2/voyageone-service2-impl/src/test/java/com/voyageone/service/impl/cms/jumei/CmsBtJmPromotionServiceTest.java" timestamp="1461556478962">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="4" />
+        <mark key="." line="86" column="4" />
+      </file>
+      <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/wms/service/impl/WmsPickupServiceImpl.java" timestamp="1466575544954">
+        <mark key="[" line="579" column="45" />
+        <mark key="]" line="579" column="45" />
+        <mark key="." line="579" column="45" />
+      </file>
+      <file name="E:/workspace/brandcrawler/src/main/resources/perfumesclub.co.uk_brand_result.txt" timestamp="1502432530988">
+        <mark key="'" line="532" column="289" />
+      </file>
+      <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/wms/service/impl/WmsReservationServiceImpl.java" timestamp="1477880053782">
+        <mark key="[" line="322" column="42" />
+      </file>
+      <file name="E:/project/ecerp-common-parent/ecerp-common-components/ecerp-data/ecerp-data-mongo/src/test/java/com/voyageone/common/mongodb/JongoDaoTest.java" timestamp="1492760675697">
+        <mark key="[" line="63" column="53" />
+        <mark key="]" line="63" column="38" />
+        <mark key="^" line="63" column="38" />
+        <mark key="." line="63" column="38" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/StyleNoUtils.java" timestamp="1509024825731">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+      </file>
+      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/test/java/com/voyageone/batch/synship/dao/TrackingDaoTest.java" timestamp="1466478461940">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="15" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-tools/ecerp-platform-mt-data-brandinfo-spider/syncTaobaoBrand.js" timestamp="1502948731942">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="5" />
+        <mark key="^" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/bean/SchemaRequest.java" timestamp="1500359958500">
+        <mark key="[" line="57" column="8" />
+      </file>
+      <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/locationMapper.xml" timestamp="1464846876617">
+        <mark key="[" line="533" column="56" />
+        <mark key="]" line="533" column="7" />
+        <mark key="^" line="533" column="7" />
+        <mark key="." line="533" column="7" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="118" column="12" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="119" column="23" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="120" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="126" column="23" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="155" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="176" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="188" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="201" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="214" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="240" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="249" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="251" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
+      <jump line="215" column="14" filename="E:/project/readfiles/file2csv.py" />
+      <jump line="532" column="289" filename="E:/workspace/brandcrawler/src/main/resources/perfumesclub.co.uk_brand_result.txt" />
+      <jump line="39" column="26" filename="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/payload/SplItemsBean.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>g</text>
+      </register>
+      <register name="b" type="4">
+        <text />
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="65535" code="37" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>g</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IHBlbmRpbmdDaGFuZ2VzOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text>bJj</text>
+      </register>
+      <register name="2" type="4">
+        <text>0@bjk</text>
+      </register>
+      <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="4">
+        <text>'</text>
+      </register>
+      <register name="5" type="4">
+        <text>,</text>
+      </register>
+      <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="4">
+        <text>a</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="4">
+        <text>1</text>
+      </register>
+      <register name="9" type="4">
+        <text>@</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>i</entry>
+        <entry>exit</entry>
+        <entry>split</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

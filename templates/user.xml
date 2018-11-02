@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="xjc_generate" value="  &lt;plugin&gt;&#10;                &lt;groupId&gt;org.codehaus.mojo&lt;/groupId&gt;&#10;                &lt;artifactId&gt;jaxb2-maven-plugin&lt;/artifactId&gt;&#10;                &lt;version&gt;2.2&lt;/version&gt;&#10;                &lt;executions&gt;&#10;                    &lt;execution&gt;&#10;                        &lt;id&gt;xjc&lt;/id&gt;&#10;                        &lt;phase&gt;none&lt;/phase&gt;&#10;                        &lt;goals&gt;&#10;                            &lt;goal&gt;xjc&lt;/goal&gt;&#10;                        &lt;/goals&gt;&#10;                    &lt;/execution&gt;&#10;                &lt;/executions&gt;&#10;                &lt;configuration&gt;&#10;                    &lt;sources&gt;&#10;                        &lt;source&gt;src/main/resources/xsd&lt;/source&gt;&#10;                    &lt;/sources&gt;&#10;                    &lt;outputDirectory&gt;${project.basedir}/src/main/java&lt;/outputDirectory&gt;&#10;                    &lt;clearOutputDir&gt;false&lt;/clearOutputDir&gt;&#10;                    &lt;arguments&gt;-extension -npa -b ${project.basedir}/src/main/xsd/global.xjb&lt;/arguments&gt; &#10;                    &lt;packageName&gt;com.voyageone.ecerp.interfaces.third.amazon.core.beans.xsd&lt;/packageName&gt;&#10;                &lt;/configuration&gt;&#10;            &lt;/plugin&gt;" description="xjc genetae xml 2 java beans" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="comment" value="   /**&#10;    * @Description:&#10;    * @Param [file, request]&#10;    * @Return java.lang.String&#10;    * @Author: zrblog&#10;    * @Date: 2018/10/20 22:02&#10;    */" shortcut="ENTER" description="为函数添加注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

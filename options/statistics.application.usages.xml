@@ -1,0 +1,247 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="com.grq" values="ECMAScript 5.1" collectionTime="1540089573070" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="ECMAScript 5.1" collectionTime="1516340846918" />
+      <project id="shiro.demo" values="ECMAScript 5.1" collectionTime="1516325553419" />
+      <project id="ideaspace" values="ECMAScript 5.1" collectionTime="1530749833538" />
+      <project id="springboot" values="ECMAScript 5.1" collectionTime="1535645827883" />
+      <project id="springboot-hello" values="ECMAScript 5.1" collectionTime="1530750369231" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1513783323043" />
+      <project id="Examination_System" values="ECMAScript 5.1" collectionTime="1516464035655" />
+      <project id="SpringBootLearning" values="ECMAScript 5.1" collectionTime="1537455571383" />
+      <project id="SpringBootBlogDemo" values="ECMAScript 5.1" collectionTime="1540739601530" />
+      <project id="taotao" values="ECMAScript 5.1" collectionTime="1514019502385" />
+      <project id="SsmDemo" values="ECMAScript 5.1" collectionTime="1540082314639" />
+    </group>
+    <group name="module type">
+      <project id="com.grq" values="JAVA_MODULE" collectionTime="1540089572888" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="JAVA_MODULE" collectionTime="1516340844948" />
+      <project id="shiro.demo" values="JAVA_MODULE" collectionTime="1516325553278" />
+      <project id="SpringBootLearning" values="JAVA_MODULE" collectionTime="1537455565534" />
+      <project id="springboot" values="JAVA_MODULE" collectionTime="1535645827697" />
+      <project id="springboot-hello" values="JAVA_MODULE" collectionTime="1530750369147" />
+      <project id="SpringBootBlogDemo" values="JAVA_MODULE" collectionTime="1540739598869" />
+      <project id="taotao" values="JAVA_MODULE" collectionTime="1514019502229" />
+      <project id="SsmDemo" values="JAVA_MODULE" collectionTime="1540082314501" />
+    </group>
+    <group name="vcs">
+      <project id="com.grq" values="Git" collectionTime="1540089572888" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="Git" collectionTime="1516340844944" />
+      <project id="shiro.demo" values="Git" collectionTime="1516325553278" />
+      <project id="SpringBootLearning" values="Git" collectionTime="1537455565533" />
+      <project id="SsmDemo" values="Git" collectionTime="1540082314501" />
+    </group>
+    <group name="Spring Boot">
+      <project id="SpringBootLearning" values="application.yml,application.properties,application.yml,application.properties,application.yml,application.yml,application.yml,application.properties,application.properties,SpringBootDevTools,application.yml,application.yml,SpringBootDevTools,application.properties,application.properties,application.properties,ConfigurationProperties_1,SpringBootDevTools,application.properties,RunConfigsPerProject_22,application.properties,SpringBootModulesPerProject_19,application.properties,ConfigurationProperties_1,application.yml,application.yml" collectionTime="1537455572624" />
+      <project id="springboot" values="application.properties,application.properties,SpringBootDevTools,SpringBootDevTools,application.properties,application.properties,RunConfigsPerProject_8,SpringBootModulesPerProject_6,ConfigurationProperties_1,application.yml,ConfigurationProperties_Methods_1,application.properties=2,SpringBootDevTools" collectionTime="1535645827914" />
+      <project id="SpringBootBlogDemo" values="application.yml,application.yml,application.yml,application.properties,application.yml,application.properties,application.properties,application.properties,ConfigurationProperties_2,ConfigurationProperties_Methods_1,application.properties,application.properties,SpringBootDevTools,RunConfigsPerProject_8,application.yml,application.properties,SpringBootDevTools,application.properties,application.properties,SpringBootDevTools,application.yml,application.properties,application.yml,application.properties,ConfigurationProperties_Methods_1,application.yml,application.yml,application.yml,SpringBootDevTools,application.yml,SpringBootModulesPerProject_33,application.yml,application.properties,SpringBootDevTools,SpringBootDevTools,SpringBootDevTools,application.yml,application.yml,SpringBootDevTools,application.yml,application.yml,application.yml,application.properties,application.properties" collectionTime="1540739601761" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1516340844950" />
+      <project id="SpringBootLearning" values="SpringBootApplicationConfigurationType" collectionTime="1537455565536" />
+      <project id="springboot" values="SpringBootApplicationConfigurationType,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1535645827697" />
+      <project id="SpringBootBlogDemo" values="SpringBootApplicationConfigurationType" collectionTime="1540739598870" />
+      <project id="SsmDemo" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,MavenRunConfiguration" collectionTime="1540082314501" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="shiro.demo" values="data.commit.count.0,data.git.root.count.1" collectionTime="1516325553310" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1516340845615" />
+      <project id="com.grq" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1540089572961" />
+      <project id="SsmDemo" values="data.git.root.count.2+,data.commit.count.1+" collectionTime="1540082314629" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="SpringBootLearning" values="SpringBootApplicationConfigurationType,JUnit" collectionTime="1537455565536" />
+      <project id="springboot" values="JUnit" collectionTime="1535645827697" />
+      <project id="ideaspace" values="Application" collectionTime="1530749832722" />
+      <project id="SpringBootBlogDemo" values="SpringBootApplicationConfigurationType,Application" collectionTime="1540739598870" />
+      <project id="springboot-hello" values="Application" collectionTime="1530750369147" />
+      <project id="SsmDemo" values="Application" collectionTime="1540082314501" />
+    </group>
+    <group name="file-type">
+      <project id="com.grq" values="PLAIN_TEXT,Images,JAVA,IDEA_MODULE,XML" collectionTime="1540089572961" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="PLAIN_TEXT,Eclipse,JSP,IDEA_MODULE,Properties,FTL,Manifest,UNKNOWN,SQL,XML,CSS,JavaScript,JAVA,Images,HTML" collectionTime="1516340845286" />
+      <project id="shiro.demo" values="Eclipse,XML,SQL,PLAIN_TEXT,IDEA_MODULE,Properties" collectionTime="1516325553310" />
+      <project id="SpringBootLearning" values="Images,IDEA_MODULE,HTML,XML,JAVA,PLAIN_TEXT,Properties,YAML" collectionTime="1537455566058" />
+      <project id="springboot" values="XML,CLASS,IDEA_MODULE,JAVA,JSON Schema,HTML,YAML,PLAIN_TEXT,ARCHIVE,Properties" collectionTime="1535645827734" />
+      <project id="springboot-hello" values="JAVA,IDEA_MODULE" collectionTime="1530750369226" />
+      <project id="SpringBootBlogDemo" values="HTML,UNKNOWN,ARCHIVE,CSS,Images,PLAIN_TEXT,JAVA,YAML,XML,JavaScript,IDEA_MODULE,Properties" collectionTime="1540739599149" />
+      <project id="taotao" values="SWF,IDEA_MODULE,ARCHIVE,Images,XML,CSS,UNKNOWN,PLAIN_TEXT,Properties,JSP,JSON Schema,HTML,ASP,JAVA,JavaScript" collectionTime="1514019502260" />
+      <project id="SsmDemo" values="PLAIN_TEXT,ARCHIVE,JAVA,JSP,IDEA_MODULE,XML" collectionTime="1540082314616" />
+    </group>
+    <group name="images.ide.background">
+      <project id="com.grq" values="editor 0,frame 0" collectionTime="1540089572961" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="frame 0,editor 0" collectionTime="1516340845616" />
+      <project id="shiro.demo" values="editor 0,frame 0" collectionTime="1516325553310" />
+      <project id="ideaspace" values="frame 0,editor 0" collectionTime="1530749832778" />
+      <project id="springboot" values="frame 0,editor 0" collectionTime="1535645827749" />
+      <project id="springboot-hello" values="frame 0,editor 0" collectionTime="1530750369226" />
+      <project id="untitled" values="editor 0,frame 0" collectionTime="1513783321869" />
+      <project id="Examination_System" values="frame 0,editor 0" collectionTime="1516464035545" />
+      <project id="SpringBootLearning" values="frame 0,editor 0" collectionTime="1537455567425" />
+      <project id="SpringBootBlogDemo" values="editor=0,frame=0" collectionTime="1540739599246" />
+      <project id="taotao" values="editor 0,frame 0" collectionTime="1514019502276" />
+      <project id="SsmDemo" values="editor 0,frame 0" collectionTime="1540082314629" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="com.grq" values="spring-core_4.3.4.RELEASE,spring-mvc_4.3.4.RELEASE" collectionTime="1540089573034" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="spring-core_4.2.5.RELEASE,spring-integration_4.0.5.RELEASE,freemarker_2.3.20,spring-mvc_4.2.5.RELEASE" collectionTime="1516340845633" />
+      <project id="SpringBootLearning" values="spring-mvc_5.1.0.BUILD-SNAPSHOT,spring-data-commons_1.13.1.RELEASE,spring-boot_2.1.0.BUILD-SNAPSHOT,spring-core_5.1.0.RC3,spring-data-jpa_1.11.1.RELEASE,spring-mvc_5.1.0.RC3,spring-core_4.3.7.RELEASE,spring-data-commons_2.1.0.RC2,spring-boot_1.5.2.RELEASE,spring-mvc_4.3.7.RELEASE,spring-data-commons_2.1.0.DATACMNS-1332-SNAPSHOT,spring-amqp_2.1.0.BUILD-SNAPSHOT,spring-core_5.1.0.BUILD-SNAPSHOT,spring-data-mongo_2.1.0.M3,thymeleaf_3.0.9.RELEASE,spring-amqp_2.1.0.BUILD-SNAPSHOT" collectionTime="1537455569193" />
+      <project id="springboot" values="spring-mvc_4.2.4.RELEASE,spring-mvc_5.1.0.RC1,spring-amqp_2.1.0.M1,spring-mvc_5.1.0.BUILD-SNAPSHOT,spring-core_5.1.0.RC1,spring-boot_2.1.0.BUILD-SNAPSHOT,spring-amqp_2.1.0.M1,spring-core_5.1.0.BUILD-SNAPSHOT" collectionTime="1535645827773" />
+      <project id="SpringBootBlogDemo" values="thymeleaf_2.1.5.RELEASE,groovy_2.4.12,spring-mvc_5.1.2.BUILD-SNAPSHOT,freemarker_2.3.26,spring-amqp_1.7.4.RELEASE,spring-mvc_4.3.11.RELEASE,spring-core_4.3.11.RELEASE,spring-amqp_1.7.4.RELEASE,spring-data-commons_1.13.7.RELEASE,spring-data-mongo_1.10.7.RELEASE,velocity_2.0,spring-boot_1.5.7.RELEASE,spring-core_5.1.2.BUILD-SNAPSHOT,spring-boot_2.1.0.BUILD-SNAPSHOT,spring-data-jpa_1.11.7.RELEASE" collectionTime="1540739600193" />
+      <project id="taotao" values="spring-core_4.1.3.RELEASE,freemarker_2.3.23,spring-core_5.12.0,spring-mvc_4.1.3.RELEASE" collectionTime="1514019502276" />
+      <project id="SsmDemo" values="velocity_1.7,spring-core_4.1.7.RELEASE,spring-mvc_4.1.7.RELEASE" collectionTime="1540082314635" />
+    </group>
+    <group name="Spring MVC">
+      <project id="com.grq" values="mvcModelsInProject_0" collectionTime="1540089573071" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="mvcModelsInProject_0" collectionTime="1516340846928" />
+      <project id="SpringBootLearning" values="mvcModelsInProject_0" collectionTime="1537455572285" />
+      <project id="springboot" values="mvcModelsInProject_0" collectionTime="1535645827898" />
+      <project id="SpringBootBlogDemo" values="mvcModelsInProject_0" collectionTime="1540739601719" />
+      <project id="taotao" values="mvcModelsInProject_0" collectionTime="1514019502401" />
+    </group>
+    <group name="spring">
+      <project id="com.grq" values="fileset_autodetect_NONE" collectionTime="1540089573071" />
+      <project id="SpringBootLearning" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1537455572238" />
+      <project id="springboot" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_NONE,fileset_autodetect_NONE" collectionTime="1535645827898" />
+      <project id="SpringBootBlogDemo" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1540739601714" />
+      <project id="taotao" values="fileset_xmlContext,fileset_autodetect_NONE,fileset_configFiles5,fileset_autodetect_NONE,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_code.alibabatech.com/schema/dubbo,xmlNS_www.springframework.org/schema/p" collectionTime="1514019502401" />
+      <project id="SsmDemo" values="fileset_autodetect_NONE" collectionTime="1540082314639" />
+    </group>
+    <group name="compiler">
+      <project id="SpringBootLearning" values="auto_make" collectionTime="1537455567425" />
+      <project id="springboot" values="auto_make" collectionTime="1535645827749" />
+      <project id="SpringBootBlogDemo" values="auto_make" collectionTime="1540739599245" />
+      <project id="SsmDemo" values="auto_make" collectionTime="1540082314628" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="com.grq" values="Project,Project" collectionTime="1540089573070" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="Project,Project" collectionTime="1516340846918" />
+      <project id="shiro.demo" values="Project,Project" collectionTime="1516325553419" />
+      <project id="ideaspace" values="Project,Project" collectionTime="1530749833538" />
+      <project id="springboot" values="Project,Project" collectionTime="1535645827883" />
+      <project id="springboot-hello" values="Project,Project" collectionTime="1530750369231" />
+      <project id="untitled" values="Project,Project" collectionTime="1513783323043" />
+      <project id="Examination_System" values="Project,Project" collectionTime="1516464035655" />
+      <project id="SpringBootLearning" values="Project,Project" collectionTime="1537455571383" />
+      <project id="SpringBootBlogDemo" values="Project,Project" collectionTime="1540739601530" />
+      <project id="taotao" values="Project,Project" collectionTime="1514019502385" />
+      <project id="SsmDemo" values="Project,Project" collectionTime="1540082314639" />
+    </group>
+    <group name="Git">
+      <project id="com.grq" values="data.local.branches.count.1,config.ssh.enabled,config.save.policy.STASH,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.remotes.in.project.1" collectionTime="1540089573035" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,data.remote.branches.count.1,config.push.autoupdate.disabled,data.local.branches.count.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1516340845636" />
+      <project id="shiro.demo" values="data.remotes.in.project.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,data.local.branches.count.0,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1516325553310" />
+      <project id="ideaspace" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1530749832788" />
+      <project id="springboot" values="config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1535645827773" />
+      <project id="springboot-hello" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1530750369229" />
+      <project id="untitled" values="config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1513783321869" />
+      <project id="Examination_System" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1516464035555" />
+      <project id="SpringBootLearning" values="data.local.branches.count.1,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1537455569200" />
+      <project id="SpringBootBlogDemo" values="config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1540739600203" />
+      <project id="taotao" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1514019502291" />
+      <project id="SsmDemo" values="config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.remote.branches.count.1,config.save.policy.STASH,data.local.branches.count.1,data.remotes.in.project.1,data.remote.branches.count.1,data.remotes.in.project.1,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled" collectionTime="1540082314636" />
+    </group>
+    <group name="libraries">
+      <project id="com.grq" values="spring-mvc,spring" collectionTime="1540089572961" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="spring-integration,TransactionJavaee,CDI,JAX-WS,jsf,EJB,JMS,spring-mvc,spring" collectionTime="1516340845601" />
+      <project id="SpringBootLearning" values="spring-data-jpa,spring-boot,EJB,thymeleaf,BeanValidation,spring-mvc,spring,WebSocket,TransactionJavaee,hibernate" collectionTime="1537455567425" />
+      <project id="springboot" values="BeanValidation,spring-boot,spring,WebSocket,spring-mvc" collectionTime="1535645827749" />
+      <project id="SpringBootBlogDemo" values="spring,spring-data-jpa,TransactionJavaee,spring-mvc,hibernate,thymeleaf,EJB,BeanValidation,WebSocket,spring-boot" collectionTime="1540739599245" />
+      <project id="taotao" values="spring,JMS,spring-mvc,TransactionJavaee" collectionTime="1514019502276" />
+      <project id="SsmDemo" values="JMS,spring,TransactionJavaee" collectionTime="1540082314628" />
+    </group>
+    <group name="frameworks">
+      <project id="com.grq" values="Spring" collectionTime="1540089572888" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="web" collectionTime="1516340844947" />
+      <project id="shiro.demo" values="web" collectionTime="1516325553278" />
+      <project id="SpringBootLearning" values="Spring" collectionTime="1537455565534" />
+      <project id="springboot" values="Spring" collectionTime="1535645827697" />
+      <project id="SpringBootBlogDemo" values="Spring" collectionTime="1540739598868" />
+      <project id="taotao" values="web,Spring" collectionTime="1514019502229" />
+      <project id="SsmDemo" values="web,Spring" collectionTime="1540082314501" />
+    </group>
+    <group name="language-level">
+      <project id="com.grq" values="JDK_1_8,JDK_1_6" collectionTime="1540089573034" />
+      <project id="SpringMVC-Mybatis-Shiro-redis-0.2" values="JDK_1_7" collectionTime="1516340845634" />
+      <project id="shiro.demo" values="JDK_1_8,JDK_1_7" collectionTime="1516325553310" />
+      <project id="ideaspace" values="JDK_1_7" collectionTime="1530749832787" />
+      <project id="springboot" values="JDK_1_8" collectionTime="1535645827773" />
+      <project id="springboot-hello" values="JDK_1_7" collectionTime="1530750369229" />
+      <project id="untitled" values="JDK_1_3" collectionTime="1513783321869" />
+      <project id="Examination_System" values="JDK_1_7" collectionTime="1516464035554" />
+      <project id="SpringBootLearning" values="JDK_1_6,JDK_1_7,JDK_1_5,JDK_1_8" collectionTime="1537455569194" />
+      <project id="SpringBootBlogDemo" values="JDK_1_8,JDK_1_6" collectionTime="1540739600195" />
+      <project id="taotao" values="JDK_1_7,JDK_1_5" collectionTime="1514019502276" />
+      <project id="SsmDemo" values="JDK_1_7,JDK_1_8" collectionTime="1540082314635" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="34" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="9" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="5" />
+      <entry feature="OpenInBrowser.Chrome" count="5" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="20" />
+      <entry feature="execute.Application.Debug" count="10" />
+      <entry feature="execute.Application.Run" count="72" />
+      <entry feature="execute.JUnit.Debug" count="28" />
+      <entry feature="execute.JUnit.Run" count="261" />
+      <entry feature="execute.JavascriptDebugType.Run" count="5" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="2" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="186" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="605" />
+      <entry feature="execute.TomeeConfiguration.Run" count="3" />
+      <entry feature="ide.help.Module_Category_and_Options" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="11" />
+      <entry feature="ide.help.ideaInterface.run" count="1" />
+      <entry feature="ide.help.preferences.inspections" count="1" />
+      <entry feature="ide.help.reference.dialogs.breakpoints" count="1" />
+      <entry feature="ide.help.reference.runToolWindow.testResultsTab" count="1" />
+      <entry feature="ide.help.reference.settingsdialog.project.structure.library" count="1" />
+      <entry feature="ide.help.viewingStructure.projectViews" count="1" />
+      <entry feature="ide.settings.Appearance" count="16" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Completion" count="7" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="46" />
+      <entry feature="ide.settings.Compiler" count="5" />
+      <entry feature="ide.settings.Console_Font" count="8" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="9" />
+      <entry feature="ide.settings.Font" count="17" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Importing" count="1" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Jindent_-_Source_Code_Formatter" count="2" />
+      <entry feature="ide.settings.Keymap" count="17" />
+      <entry feature="ide.settings.Language_Defaults" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="10" />
+      <entry feature="ide.settings.Maven" count="9" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Repositories" count="3" />
+      <entry feature="ide.settings.Runner" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.TomEE_Server" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.Version_Control" count="2" />
+      <entry feature="ide.settings.XML" count="2" />
+      <entry feature="ide.settings.XML_Catalog" count="1" />
+      <entry feature="idea.caches.invalidated" count="13" />
+      <entry feature="ideaapp.started" count="113" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="257" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="51" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="4" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="5" />
+      <entry feature="terminal.win" count="29" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="1" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

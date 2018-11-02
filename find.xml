@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.t</mask>
+      <mask>*.p</mask>
+      <mask>*.po</mask>
+      <mask>*.pom</mask>
+      <mask>.xml</mask>
+      <mask>p.xml</mask>
+      <mask>pom.xml</mask>
+      <mask>*,</mask>
+      <mask>hjt</mask>
+      <mask>hj</mask>
+      <mask>h</mask>
+      <mask>.html</mask>
+      <mask>.htm</mask>
+      <mask>.ht</mask>
+      <mask>.h</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.uja</mask>
+      <mask>*.ujav</mask>
+      <mask>*.uj</mask>
+      <mask>*.u</mask>
+      <mask>*.xm,</mask>
+      <mask>*.jav</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

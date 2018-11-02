@@ -1,0 +1,8 @@
+<templateSet group="AngularJS ">
+  <template name="ngdl" value="directive('$directiveName$', function($directiveDeps$) {&#10;&#10;    return function(scope, element, attrs$ctrl$) {&#10;        $END$&#10;    }&#10;});" description="A directive with a linking function only." toReformat="true" toShortenFQNames="true">
+    <variable name="directiveName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="directiveDeps" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ctrl" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="save &amp; make">
+      <action id="SaveAll" />
+      <action id="Compile" />
+    </macro>
+    <macro name="reload from gbk to UTF8" />
+  </component>
+</application>

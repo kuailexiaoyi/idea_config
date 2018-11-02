@@ -1,0 +1,51 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="AIR Packaging" />
+    <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Android Module Importing" />
+    <notification groupId="Android Property Files Updating" />
+    <notification groupId="Clean artifact" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Compiler" displayType="NONE" />
+    <notification groupId="Database" displayType="TOOL_WINDOW" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="Database log" displayType="NONE" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" />
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
+    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Framework Detection" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="github" />
+    <notification groupId="Grape" />
+    <notification groupId="Groovy DSL errors" />
+    <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="ideavim" />
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" />
+    <notification groupId="JavaEE" displayType="TOOL_WINDOW" />
+    <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="Maven" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="OSGi important errors" displayType="STICKY_BALLOON" />
+    <notification groupId="OSGi Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Package File" />
+    <notification groupId="Plugin Error" />
+    <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
+    <notification groupId="Reformat Code" />
+    <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" />
+    <notification groupId="Svn Roots Detection Errors" displayType="STICKY_BALLOON" />
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Unknown Natures Detected" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="update.available.group" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Minor Notifications" />
+  </component>
+</application>

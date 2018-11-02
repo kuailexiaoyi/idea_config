@@ -1,0 +1,24 @@
+<templateSet group="Kotlin">
+  <template name="anno" value="@Target(AnnotationTarget.CLASS, AnnotationTarget.FUNCTION,&#10;        AnnotationTarget.VALUE_PARAMETER, AnnotationTarget.EXPRESSION)&#10;@Retention(AnnotationRetention.RUNTIME)&#10;@MustBeDocumented&#10;annotation class $VAR0$" description="annotation 简写" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="maino" value="@JvmStatic&#10;fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="func" value="fun $NAME$() : $RETURN$ {&#10;$END$&#10;}" description="fun" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>

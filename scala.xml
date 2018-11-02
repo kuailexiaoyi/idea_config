@@ -1,0 +1,10 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
+    <option name="SHOW_TYPE_TOOLTIP_DELAY" value="800" />
+    <option name="COMPILE_SERVER_PORT" value="63921" />
+    <option name="COMPILE_SERVER_ID" value="e3d68fea-914f-4761-811a-467977037dff" />
+    <option name="COMPILE_SERVER_SDK" value="Project Default" />
+    <option name="USE_PROJECT_HOME_AS_WORKING_DIR" value="true" />
+  </component>
+</application>

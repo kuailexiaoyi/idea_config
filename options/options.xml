@@ -1,0 +1,52 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.0.3-release-IJ2016.1-120" />
+    <property name="android-component-compatibility-check" value="1540250842980" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="file.chooser.recent.files" value="D:/Java Example Demo/SpringBeanLIfeCycleDemo&#10;D:/睿之Demo/SpringBeanLIfeCycleDemo&#10;D:/Java Example Demo/SsmDemo&#10;D:/Java Example Demo/SpringBootLearning&#10;D:/Java Example Demo/SpringBootLearning/SpringBootDemo&#10;E:/SpringBootTools/plugins/Alibaba%20Java%20Coding%20Guidelines-1.0.5.zip&#10;E:/Software/JavaTools/jdk1.8.0_181&#10;E:/Software/JavaTools/apache-maven-3.3.9/conf/settings.xml&#10;D:/Java Development environment/IntelliJ IDEA 2016.2.1/idea_config/idea_config&#10;D:/Java Development environment/IntelliJ IDEA 2016.2.1/idea_config/config&#10;D:/Java Example Demo/SsmDemo/designpattern-manager/web/WEB-INF/lib&#10;D:/Java Example Demo/SsmDemo/designpattern-manager/web/WEB-INF/classes&#10;D:/Java Example Demo/SsmDemo/cxf-manager/src/main/webapp/WEB-INF/libs&#10;D:/Java Example Demo/SsmDemo/ssm-manager&#10;D:/Java Example Demo/springboot/SsmDemoTest/src/main/webapp&#10;D:/Java Example Demo/springboot/SsmDemoTest/src/main/resources&#10;D:/Java Example Demo/springboot/SsmDemoTest/src/main/java&#10;D:/Java Example Demo/springboot/SsmDemoTest/src/test&#10;E:/Software/JavaTools/jdk1.8.0_121&#10;D:/Java Example Demo/Examination_System&#10;E:/Software/JavaTools/apache-tomcat-7.0.52&#10;D:/Java Example Demo/SpringMVC-Mybatis-Shiro-redis-0.2&#10;D:/JavaWorksplaces/ws_myeclipse2016/SpringMVC-Mybatis-Shiro-redis-0.2&#10;D:/Java Development environment/IntelliJ IDEA 2016.2.1/idea_config&#10;D:/Java Development environment/约束文件/xsd/spring-mvc-4.0.xsd&#10;D:/JavaWorksplaces/ideaspace&#10;E:/Software/JavaTools/jdk1.7.0_72" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="lastTip" value="1" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="selected.color.option.type" value="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <property name="ColorChooser.RecentColors" value="16-17-130-255,,,47-135-34-255,,,45-91-181-255,,,255-255-255-255,,,199-237-204-255,,,0-0-255-255,,,0-128-0-255" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="false" />
+    <property name="KEYMAP" value="Add Javadoc&#10;format code&#10;new&#10;Reimport&#10;Rename" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="case sensitive completion&#10;duplicated code&#10;duplicate code&#10;properties" />
+    <property name="kotlin.lastUpdateCheck" value="1514015083404" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.11540681" />
+    <property name="SpringBeansModulesPanel[0]" value="0.11540681" />
+    <property name="SpringBeansModulesPanel[1]" value="0.13071896" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="last.imported.location" value="D:/睿之Demo/SpringBeanLIfeCycleDemo" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="spring.initializr.service.url.history" value="https://start.spring.io" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running=compiler.automake.trigger.delay" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+    <property name="export.settings.path" value="D:\Java Development environment\IntelliJ IDEA 2016.2.1\idea_config\idea_config\settings.jar" />
+    <property name="PLUGIN_FILTER" value="Jindent&#10;alibaba&#10;alibab" />
+    <property name="plugins.preselection.path" value="E:/SpringBootTools/plugins" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="search.everywhere.max.popup.width" value="790" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.50898695" />
+    <property name="INTENTION_FILTER_HISTORY" value="javadoc" />
+  </component>
+</application>

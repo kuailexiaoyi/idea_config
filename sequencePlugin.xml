@@ -1,0 +1,30 @@
+<application>
+  <component name="sequencePlugin">
+    <option name="excludeList">
+      <list>
+        <excludeEntry>
+          <option name="excludeName" value="com.voyageone.common" />
+        </excludeEntry>
+        <excludeEntry>
+          <option name="excludeName" value="com.voyageone.service.dao" />
+        </excludeEntry>
+        <excludeEntry>
+          <option name="excludeName" value="com.voyageone.base" />
+        </excludeEntry>
+        <excludeEntry>
+          <option name="excludeName" value="com.voyageone.base.dao.mongodb" />
+        </excludeEntry>
+        <excludeEntry>
+          <option name="excludeName" value="com.voyageone.components.rabbitmq.utils" />
+        </excludeEntry>
+        <excludeEntry>
+          <option name="excludeName" value="com.voyageone.service.dao.ims" />
+        </excludeEntry>
+      </list>
+    </option>
+    <option name="EXTERNAL_CLASS_COLOR" value="ff2e3c43" />
+    <option name="METHOD_BAR_COLOR" value="ff2e3c43" />
+    <option name="SELECTED_METHOD_BAR_COLOR" value="ff2e3c43" />
+    <option name="FONT_NAME" value="Fira Code Medium" />
+  </component>
+</application>

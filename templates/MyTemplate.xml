@@ -1,0 +1,11 @@
+<templateSet group="MyTemplate">
+  <template name="classTem" value="/*&#10; * @Description:&#10; * @Author zrblog&#10; * @Date : Created in $date$ $time$&#10; * @param $params$&#10; * @return $returns$&#10; */" description="add annotation" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

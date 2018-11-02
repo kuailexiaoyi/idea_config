@@ -1,0 +1,45 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>int</find>
+      <find>web</find>
+      <find>starter</find>
+      <find>connec</find>
+      <find>spring.datasource.filters</find>
+      <find>logger</find>
+      <find>mail.smtp.auth</find>
+      <find>retry</find>
+      <find>rabbit</find>
+      <find>messaging</find>
+      <find>spring-messaging</find>
+      <find>kaf</find>
+      <find>ssm</find>
+      <find>api</find>
+      <find>identifier</find>
+      <find>jdbcTemPlate</find>
+      <find>jpa</find>
+      <find>.</find>
+      <find>depend</find>
+      <find>meta-inf</find>
+      <find>private</find>
+      <find>configureMessageConverters</find>
+      <find>attempting to get SockIO from uninitialized pool</find>
+      <find>initialized</find>
+      <find>Boolean</find>
+      <find>Integer</find>
+      <find>lastname</find>
+      <find>sqlManagerFactoryBean</find>
+      <find>input</find>
+      <find>DirectExchange</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>boolean</replace>
+      <replace>int</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Java Example Demo\springboot\springboot-druid\src\main\webapp\WEB-INF\lib</dir>
+      <dir>D:\Java Example Demo\springboot\springboot-druid\src\main\java\com\springboot\druid\controller</dir>
+    </dirStrings>
+  </component>
+</application>

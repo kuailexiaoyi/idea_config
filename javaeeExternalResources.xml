@@ -1,0 +1,17 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/da247ef1_spring-aop-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a34b92d1_spring-beans-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a34b92d1_spring-beans-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/1dd123d1_spring-context-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/data/mongo" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/73ef5832_spring-mongo.xsd" />
+    <resource url="http://www.springframework.org/schema/data/repository/spring-repository.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/977a1048_spring-repository.xsd" />
+    <resource url="http://www.springframework.org/schema/data/solr" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/d48fcbb8_spring-solr.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/769d3afd_spring-task-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/5f7618a3_spring-tool-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/ddbdc277_spring-util-3.2.xsd" />
+  </component>
+</application>

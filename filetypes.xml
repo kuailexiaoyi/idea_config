@@ -1,0 +1,34 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".history" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="sitemesh3.xml" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="jquery_autocomplete_doc" type="PLAIN_TEXT" />
+      <mapping pattern="images" type="PLAIN_TEXT" />
+      <mapping pattern=".default-cli-xjcStaleFlag" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="jquery_validate_doc" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="g" type="PLAIN_TEXT" />
+      <mapping ext="python" type="PLAIN_TEXT" />
+      <mapping ext="html_back" type="PLAIN_TEXT" />
+      <mapping ext="validation" type="PLAIN_TEXT" />
+      <mapping ext="vtl" type="VTL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+    </extensionMap>
+  </component>
+</application>

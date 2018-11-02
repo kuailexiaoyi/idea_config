@@ -1,0 +1,6 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <action id="SaveAsTemplate" />
+    <action id="SaveFileAsTemplate" />
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="cmd.exe&quot; /k &quot;C:\Users\dell\scoop\apps\cmder\current\vendor\init.bat" />
+  </component>
+</application>

@@ -1,0 +1,47 @@
+<templateSet group="java">
+  <template name="lam" value="($it$)-&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="it" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="func" value="public void $var2$($var1$) {&#10;    $end$&#10;}" description="create method" toReformat="false" toShortenFQNames="true">
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lam2" value="($it$,$it1$)-&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="it" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="it1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lam3" value="($it$,$it1$,$it2$)-&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="it" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="it1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="it2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lam1" value="(it)-&gt;$END$" description="lambda without parameters" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="CF" value="CompletableFuture" description="CompletableFuture" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="json2beanList" value="objectMapper.readValue(json, objectMapper.getTypeFactory().constructCollectionType(List.class, $class$.class))" description="json to bean list" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

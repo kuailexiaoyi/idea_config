@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.springframework.jdbc.core.JdbcTemplate.queryForObject(sql,rowMapper)" />
+        <added pattern="com.voyageone.ecerp.common.configs.ComVmsFeedConfig.getComVmsFeedConfigListByChannelAndName(channelId,name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

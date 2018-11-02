@@ -1,0 +1,8 @@
+<templateSet group="surround">
+  <template name="FJ" value="ForkJoinPool pool = new ForkJoinPool(2);&#10;pool.submit(() -&gt;{&#10;    $SELECTION$&#10;}).get();" description="使用ForkjoinPool定制Parallel Stream" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
