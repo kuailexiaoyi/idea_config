@@ -7,10 +7,7 @@
     <variable name="getMethod" expression="completeSmart()" defaultValue="&quot;get&quot;" alwaysStopAt="true" />
     <variable name="WS_Soap_BindingStub" expression="descendantClassesEnum(&quot;org.apache.axis.client.Stub&quot;)" defaultValue="&quot;MyService_Soap_BindingStub&quot;" alwaysStopAt="false" />
     <variable name="businessMethod" expression="complete()" defaultValue="&quot;businessMethod&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="iuws" value="try {  org.apache.axis.client.Service  $service$ = new org.apache.axis.client.Service();&#10;  org.apache.axis.client.Call     $call$    = (org.apache.axis.client.Call) $service$.createCall();&#10;  $call$.setTargetEndpointAddress( new java.net.URL(&quot;$targetUrl$&quot;) );&#10;  $call$.setOperationName(new javax.xml.namespace.QName(&quot;$targetNs$&quot;, &quot;$methodname$&quot;));&#10;  $call$.invoke( new Object[] {$END$} );&#10;} catch(javax.xml.rpc.ServiceException ex) { ex.printStackTrace(); }&#10;catch(java.rmi.RemoteException ex) { ex.printStackTrace(); }&#10;catch(java.net.MalformedURLException ex) { ex.printStackTrace(); }" description="Generate Axis untyped web service invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="service" expression="&quot;service&quot;" defaultValue="&quot;service&quot;" alwaysStopAt="true" />
@@ -18,10 +15,7 @@
     <variable name="targetUrl" expression="&quot;http://localhost:8080/MyService&quot;" defaultValue="&quot;http://localhost:8080/MyService&quot;" alwaysStopAt="true" />
     <variable name="targetNs" expression="&quot;http://localhost:8080/MyService&quot;" defaultValue="&quot;http://localhost:8080/MyService&quot;" alwaysStopAt="true" />
     <variable name="methodname" expression="&quot;businessMethod&quot;" defaultValue="&quot;businessMethod&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="ixws" value="$WebServicePortType$ $port$ = new $PortLocator$().$getPort$();&#10;  //invoke business method&#10;$port$.$businessMethod$($END$);" description="Generate Apache CXF web service invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="WebServicePortType" expression="annotated(&quot;javax.jws.WebService&quot;)" defaultValue="&quot;MyService&quot;" alwaysStopAt="true" />
@@ -29,29 +23,20 @@
     <variable name="PortLocator" expression="descendantClassesEnum(&quot;javax.xml.ws.Service&quot;)" defaultValue="&quot;PortLocator&quot;" alwaysStopAt="true" />
     <variable name="getPort" expression="completeSmart()" defaultValue="&quot;getPort&quot;" alwaysStopAt="true" />
     <variable name="businessMethod" expression="annotated(&quot;javax.jws.WebMethod&quot;, &quot;WebServicePortType&quot;)" defaultValue="&quot;sayHelloWorldFrom&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="iuxws" value="try {&#10;  Client $client$ = new Client(new java.net.URL(&quot;$url$&quot;));&#10;  Object[] $results$ = client.invoke(&quot;$methodname$&quot;, new Object[] {$END$});&#10;} catch(Exception e) {&#10;  e.printStackTrace();&#10;}" description="Generate XFire untyped web service invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="client" expression="&quot;client&quot;" defaultValue="&quot;client&quot;" alwaysStopAt="true" />
     <variable name="url" expression="&quot;url&quot;" defaultValue="&quot;url&quot;" alwaysStopAt="true" />
     <variable name="results" expression="&quot;results&quot;" defaultValue="&quot;results&quot;" alwaysStopAt="true" />
     <variable name="methodname" expression="&quot;methodname&quot;" defaultValue="&quot;methodname&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="itaws" value="try {&#10;  $WebServiceStub$ $stub$ = new $WebServiceStub$();&#10;  $stub$.$businessMethod$($END$);&#10;} catch(Exception ex) { ex.printStackTrace(); }&#10;" description="Generate Axis2 web service invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="WebServiceStub" expression="descendantClassesEnum(&quot;org.apache.axis2.client.Stub&quot;)" defaultValue="&quot;MyServiceStub&quot;" alwaysStopAt="true" />
     <variable name="stub" expression="&quot;stub&quot;" defaultValue="&quot;stub&quot;" alwaysStopAt="true" />
     <variable name="businessMethod" expression="complete()" defaultValue="&quot;sayHelloWorldFrom&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="ijws" value="$WebServicePortType$ $port$ = new $PortLocator$().$getPort$();&#10;  //invoke business method&#10;$port$.$businessMethod$($END$);" description="Generate JaxWS web service invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="WebServicePortType" expression="annotated(&quot;javax.jws.WebService&quot;)" defaultValue="&quot;MyService&quot;" alwaysStopAt="true" />
@@ -59,10 +44,7 @@
     <variable name="PortLocator" expression="descendantClassesEnum(&quot;javax.xml.ws.Service&quot;)" defaultValue="&quot;PortLocator&quot;" alwaysStopAt="true" />
     <variable name="getPort" expression="completeSmart()" defaultValue="&quot;getPort&quot;" alwaysStopAt="true" />
     <variable name="businessMethod" expression="annotated(&quot;javax.jws.WebMethod&quot;, &quot;WebServicePortType&quot;)" defaultValue="&quot;businessMethod&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="ijrws" value="try {&#10;  $WebServiceNameServiceLocator$ $locator$ = new $WebServiceNameServiceLocator$();&#10;  $WebServiceName$ $service$ = $locator$.$getMethod$();&#10;  // invoke business method&#10;  $service$.$businessMethod$($END$);&#10;} catch(java.rmi.RemoteException ex) { ex.printStackTrace(); }" description="Generate JaxRPC web service invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="WebServiceNameServiceLocator" expression="descendantClassesEnum(&quot;javax.xml.rpc.Service&quot;)" defaultValue="&quot;MyLocator&quot;" alwaysStopAt="true" />
@@ -71,10 +53,7 @@
     <variable name="service" expression="&quot;service&quot;" defaultValue="&quot;service&quot;" alwaysStopAt="true" />
     <variable name="getMethod" expression="completeSmart()" defaultValue="get" alwaysStopAt="true" />
     <variable name="businessMethod" expression="complete()" defaultValue="businessMethod" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="iwws" value="try {&#10;  $WebServiceNameServiceLocator$ $locator$ = new $WebServiceNameServiceLocator$();&#10;  $WebServiceName$ $service$ = $locator$.$getMethod$();&#10;  // invoke business method&#10;  $service$.$businessMethod$($END$);&#10;} catch(Exception ex) { ex.printStackTrace(); }" description="Generate WebSphere webservice invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="WebServiceNameServiceLocator" expression="descendantClassesEnum(&quot;javax.xml.rpc.Service&quot;)" defaultValue="&quot;MyLocator&quot;" alwaysStopAt="true" />
@@ -83,9 +62,6 @@
     <variable name="service" expression="&quot;service&quot;" defaultValue="&quot;service&quot;" alwaysStopAt="true" />
     <variable name="getMethod" expression="completeSmart()" defaultValue="&quot;getMethod&quot;" alwaysStopAt="true" />
     <variable name="businessMethod" expression="complete()" defaultValue="&quot;businessMethod&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>

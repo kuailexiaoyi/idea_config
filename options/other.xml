@@ -1,56 +1,30 @@
 <application>
-  <component name="CvsApplicationLevelConfiguration">
-    <option name="EXT_CONFIGURATION">
-      <value>
-        <option name="CVS_RSH" value="ssh" />
-        <option name="PRIVATE_KEY_FILE" value="" />
-        <option name="ADDITIONAL_PARAMETERS" value="" />
-        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
-      </value>
-    </option>
-    <option name="SSH_CONFIGURATION">
-      <value SSH_TYPE="SSH1, SSH2">
-        <option name="USE_PPK" value="false" />
-        <option name="PATH_TO_PPK" value="" />
-      </value>
-    </option>
-    <option name="LOCAL_CONFIGURATION">
-      <value>
-        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
-      </value>
-    </option>
-    <option name="PROXY_SETTINGS">
-      <value>
-        <option name="USE_PROXY" value="false" />
-        <option name="PROXY_HOST" value="" />
-        <option name="PROXY_PORT" value="8080" />
-        <option name="TYPE" value="0" />
-        <option name="LOGIN" value="" />
-        <option name="PASSWORD" value="" />
-      </value>
-    </option>
-    <option name="SSH_FOR_EXT_CONFIGURATION">
-      <value SSH_TYPE="SSH1, SSH2">
-        <option name="USE_PPK" value="false" />
-        <option name="PATH_TO_PPK" value="" />
-      </value>
-    </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
-    <option name="TIMEOUT" value="10" />
-    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
-    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
-    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
-    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
-    <option name="ENCODING" value="Default" />
-    <option name="USE_GZIP" value="false" />
-    <option name="DO_OUTPUT" value="false" />
-    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
-    <option name="SHOW_PATH" value="true" />
-  </component>
-  <component name="RefactoringSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
-    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.80110496" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value=".ig" />
+    <property name="KEYMAP" value="show in ex&#10;show&#10;show inten&#10;show intention&#10;show in" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="Compile&#10;cons&#10;File Encodings&#10;File Enc&#10;File" />
+    <property name="TrendingPluginsSearchHistory" value=".ignore&#10;key&#10;svn&#10;RestfulToolkit&#10;JRebel for IntelliJ" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="D:/Java Example Demo/SsmDemo/Springcloud-parent/1_eurekaclient/pom.xml&#10;D:/Java Example Demo/SsmDemo/ssm/eureka-server/pom.xml&#10;D:/yunjiglobal/yunji-resourcebit/yunji-resourcebitservice/pom.xml&#10;D:/yunjiglobal/yunji-resourcebit/pom.xml&#10;D:/yunjiglobal/code/yunji-special/yunji-specialservice/pom.xml&#10;E:/Software/JavaTools/apache-tomcat-7.0.52&#10;E:/Software/JavaTools/apache-tomcat-7.0.47&#10;E:/Software/JavaTools/IntelliJ IDEA 2018.3.6/idea_config/settings.jar&#10;E:/Software/JavaTools/IntelliJ IDEA 2018.3.6/idea_config&#10;D:/JavaWorksplaces/ssm-test" />
+    <property name="file.gist.reindex.count" value="1918" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="lastTip" value="2" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
   </component>
 </application>

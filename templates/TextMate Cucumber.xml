@@ -1,7 +1,6 @@
 <templateSet group="TextMate Cucumber">
   <template name="giv" value="Given $VARIABLE_1$ do&#10;  $END$&#10;end" description="Given Step" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="step name" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="sco" value="Scenario Outline: $VARIABLE_1$&#10;  Given $VARIABLE_2$&#10;  When $VARIABLE_3$&#10;  Then $VARIABLE_4$" description="Scenario Outline" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="title" alwaysStopAt="true" />
@@ -32,10 +31,8 @@
   </template>
   <template name="the" value="Then $VARIABLE_1$ do&#10;  $END$&#10;end" description="Then Step" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="step name" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="whe" value="When $VARIABLE_1$ do&#10;  $END$&#10;end" description="When Step" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="step name" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>

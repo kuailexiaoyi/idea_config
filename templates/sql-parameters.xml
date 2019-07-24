@@ -1,6 +1,5 @@
 <templateSet group="sql-parameters">
   <template name="sqlp" value="org.springframework.jdbc.core.namedparam.MapSqlParameterSource params = new org.springframework.jdbc.core.namedparam.MapSqlParameterSource$PARAMS$" description="sql parameter" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="PARAMS" expression="resolveSqlParam" defaultValue="()" alwaysStopAt="false" />
-    <context />
   </template>
 </templateSet>

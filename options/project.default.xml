@@ -1,25 +1,7 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CompilerConfiguration">
-        <resourceExtensions />
-        <wildcardResourcePatterns>
-          <entry name="!?*.java" />
-          <entry name="!?*.form" />
-          <entry name="!?*.class" />
-          <entry name="!?*.groovy" />
-          <entry name="!?*.scala" />
-          <entry name="!?*.flex" />
-          <entry name="!?*.kt" />
-          <entry name="!?*.clj" />
-          <entry name="!?*.aj" />
-        </wildcardResourcePatterns>
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="false">
-            <processorPath useClasspath="true" />
-          </profile>
-        </annotationProcessing>
-      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
@@ -46,8 +28,6 @@
             <option name="ADD_NONJAVA_TO_ENTRIES" value="true" />
           </inspection_tool>
         </profile>
-        <option name="PROJECT_PROFILE" value="Project Default" />
-        <option name="USE_PROJECT_PROFILE" value="true" />
         <version value="1.0" />
       </component>
       <component name="MavenImportPreferences">
@@ -66,200 +46,144 @@
         <entry key="Project Default">
           <profile-state>
             <expanded-state>
+              <State />
               <State>
-                <id />
+                <id>Abstraction issuesJava</id>
               </State>
               <State>
-                <id>AOP</id>
+                <id>AccessibilityLintAndroid</id>
               </State>
               <State>
-                <id>Ali-Check</id>
+                <id>ActionScript specificJavaScript</id>
               </State>
               <State>
                 <id>Android</id>
               </State>
               <State>
-                <id>Android &gt; Lint &gt; Correctness</id>
+                <id>CSS</id>
               </State>
               <State>
-                <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+                <id>Code quality toolsCSS</id>
               </State>
               <State>
-                <id>Android &gt; Lint &gt; Performance</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Security</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Usability</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
-              </State>
-              <State>
-                <id>Android Lint for Kotlin</id>
-              </State>
-              <State>
-                <id>Class metricsJava</id>
-              </State>
-              <State>
-                <id>Class structureJava</id>
-              </State>
-              <State>
-                <id>Cloning issuesJava</id>
+                <id>Code quality toolsJavaScript</id>
               </State>
               <State>
                 <id>Code style issuesJava</id>
               </State>
               <State>
-                <id>CoffeeScript</id>
-              </State>
-              <State>
-                <id>Control FlowGroovy</id>
-              </State>
-              <State>
-                <id>Control flow issuesJava</id>
-              </State>
-              <State>
                 <id>Control flow issuesJavaScript</id>
               </State>
               <State>
-                <id>Cucumber Java</id>
+                <id>CorrectnessLintAndroid</id>
               </State>
               <State>
                 <id>Declaration redundancyJava</id>
               </State>
               <State>
-                <id>Dependency issuesJava</id>
+                <id>ECMAScript 6 migration aidsJavaScript</id>
               </State>
               <State>
-                <id>FreeMarker inspections</id>
+                <id>Error handlingJava</id>
               </State>
               <State>
-                <id>General</id>
+                <id>GeneralJavaScript</id>
               </State>
               <State>
-                <id>Groovy</id>
+                <id>IconsUsabilityLintAndroid</id>
               </State>
               <State>
-                <id>Inheritance issuesJava</id>
+                <id>InternationalizationJava</id>
               </State>
               <State>
-                <id>Internationalization issues</id>
+                <id>JBoss Seam</id>
               </State>
               <State>
-                <id>Internationalization issuesJava</id>
-              </State>
-              <State>
-                <id>JBoss Seam issues</id>
-              </State>
-              <State>
-                <id>JSP Inspections</id>
+                <id>JUnitJava</id>
               </State>
               <State>
                 <id>Java</id>
               </State>
               <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java interop issuesKotlin</id>
+              </State>
+              <State>
                 <id>Java language level migration aidsJava</id>
-              </State>
-              <State>
-                <id>JavaBeans issuesJava</id>
-              </State>
-              <State>
-                <id>JavaFX</id>
               </State>
               <State>
                 <id>JavaScript</id>
               </State>
               <State>
-                <id>Javadoc issuesJava</id>
-              </State>
-              <State>
                 <id>Kotlin</id>
               </State>
               <State>
-                <id>Less</id>
+                <id>LintAndroid</id>
               </State>
               <State>
-                <id>Numeric issuesJava</id>
+                <id>PerformanceJava</id>
               </State>
               <State>
-                <id>OSGi</id>
-              </State>
-              <State>
-                <id>Performance issuesJava</id>
+                <id>PerformanceLintAndroid</id>
               </State>
               <State>
                 <id>Plugin DevKit</id>
               </State>
               <State>
-                <id>Portability issuesJava</id>
+                <id>Potentially confusing code constructsJavaScript</id>
               </State>
               <State>
-                <id>Probable bugsCoffeeScript</id>
+                <id>Probable bugsKotlin</id>
               </State>
               <State>
-                <id>Probable bugsGroovy</id>
+                <id>RegExp</id>
               </State>
               <State>
-                <id>Probable bugsJava</id>
+                <id>SecurityLintAndroid</id>
               </State>
               <State>
-                <id>Properties Files</id>
+                <id>Struts</id>
               </State>
               <State>
-                <id>RESTful Web Service</id>
+                <id>Struts 1Struts</id>
               </State>
               <State>
-                <id>SQL</id>
+                <id>Struts 2Struts</id>
               </State>
               <State>
-                <id>Sass/SCSS</id>
+                <id>Style issuesKotlin</id>
               </State>
               <State>
-                <id>Security issuesJava</id>
+                <id>TestNGJava</id>
               </State>
               <State>
-                <id>Serialization issuesJava</id>
+                <id>UsabilityLintAndroid</id>
               </State>
               <State>
-                <id>Spring</id>
+                <id>VisibilityJava</id>
               </State>
               <State>
-                <id>Spring SecuritySpring</id>
-              </State>
-              <State>
-                <id>Threading issuesJava</id>
-              </State>
-              <State>
-                <id>XSLT</id>
+                <id>XPath</id>
               </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>Ali-Check</id>
+                <id>Android</id>
               </State>
             </selected-state>
           </profile-state>
         </entry>
       </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Errors" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="project.structure.last.edited" value="Project" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="SDKs" />
         <property name="project.structure.proportion" value="0.15" />
-        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -347,9 +271,6 @@
           <listeners />
           <method />
         </configuration>
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>

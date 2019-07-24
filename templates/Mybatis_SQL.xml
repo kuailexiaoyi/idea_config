@@ -1,7 +1,5 @@
 <templateSet group="Mybatis/SQL">
-  <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
-    <context />
-  </template>
+  <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false" />
   <template name="foreach" value="&lt;foreach collection=&quot;$items$&quot; item=&quot;item&quot; index=&quot;index&quot;  open=&quot;(&quot; separator=&quot;,&quot; close=&quot;)&quot;&gt; $VAR0$ &lt;/foreach&gt;" description="mybatis foreach" toReformat="false" toShortenFQNames="true">
     <variable name="items" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />

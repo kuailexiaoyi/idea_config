@@ -1,9 +1,9 @@
 <application>
   <component name="AppserversManager">
-    <ServerDK NAME="TomEE 7.0.52">
-      <option name="SOURCE_INTEGRATION_NAME" value="TomEE Server" />
+    <ServerDK NAME="Tomcat 7.0.47">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
       <DATA>
-        <option name="CATALINA_HOME" value="E:/Software/JavaTools/apache-tomcat-7.0.52" />
+        <option name="CATALINA_HOME" value="E:/Software/JavaTools/apache-tomcat-7.0.47" />
         <option name="CATALINA_BASE" value="" />
       </DATA>
     </ServerDK>
@@ -15,15 +15,15 @@
       </DATA>
     </ServerDK>
     <LibraryTable>
-      <library name="Tomcat 7.0.52">
+      <library name="Tomcat 7.0.47">
         <CLASSES>
-          <root url="jar://E:/Software/JavaTools/apache-tomcat-7.0.52/lib/jsp-api.jar!/" />
-          <root url="jar://E:/Software/JavaTools/apache-tomcat-7.0.52/lib/servlet-api.jar!/" />
+          <root url="jar://E:/Software/JavaTools/apache-tomcat-7.0.47/lib/jsp-api.jar!/" />
+          <root url="jar://E:/Software/JavaTools/apache-tomcat-7.0.47/lib/servlet-api.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
-      <library name="TomEE 7.0.52">
+      <library name="Tomcat 7.0.52">
         <CLASSES>
           <root url="jar://E:/Software/JavaTools/apache-tomcat-7.0.52/lib/jsp-api.jar!/" />
           <root url="jar://E:/Software/JavaTools/apache-tomcat-7.0.52/lib/servlet-api.jar!/" />

@@ -7,18 +7,18 @@
   </template>
   <template name="maino" value="@JvmStatic&#10;fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="KOTLIN_TOPLEVEL" value="true" />
-      <option name="KOTLIN_STATEMENT" value="true" />
       <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
   <template name="func" value="fun $NAME$() : $RETURN$ {&#10;$END$&#10;}" description="fun" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="KOTLIN_TOPLEVEL" value="true" />
-      <option name="KOTLIN_STATEMENT" value="true" />
       <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
 </templateSet>

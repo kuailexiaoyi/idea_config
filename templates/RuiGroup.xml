@@ -1,5 +1,3 @@
 <templateSet group="RuiGroup">
-  <template name="sysout" value="System.out.println($cursor);" description="输出打印" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="sysout" value="System.out.println($cursor);" description="输出打印" toReformat="false" toShortenFQNames="true" />
 </templateSet>

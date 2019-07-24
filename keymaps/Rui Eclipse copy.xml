@@ -2,13 +2,21 @@
   <action id="Arrangement.Rule.Edit" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
-    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="FindNext" />
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -31,8 +39,14 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl f10" />

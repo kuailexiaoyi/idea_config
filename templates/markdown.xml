@@ -1,24 +1,24 @@
 <templateSet group="markdown">
   <template name="mdApiTemplate" value="**请求URL：** &#10;- ` http://xx.com/api/user/register `&#10;  &#10;**请求方式：**&#10;- POST &#10;&#10;**参数：** &#10;&#10;|参数名|必选|类型|说明|&#10;|:----    |:---|:----- |-----   |&#10;|username |是  |string |用户名   |&#10;|password |是  |string | 密码    |&#10;|name     |否  |string | 昵称    |&#10;&#10; **返回示例**&#10;&#10;``` &#10;  {&#10;    &quot;error_code&quot;: 0,&#10;    &quot;data&quot;: {&#10;      &quot;uid&quot;: &quot;1&quot;,&#10;      &quot;username&quot;: &quot;12154545&quot;,&#10;      &quot;name&quot;: &quot;吴系挂&quot;,&#10;      &quot;groupid&quot;: 2 ,&#10;      &quot;reg_time&quot;: &quot;1436864169&quot;,&#10;      &quot;last_login_time&quot;: &quot;0&quot;,&#10;    }&#10;  }&#10;```&#10;&#10; **返回参数说明** &#10;&#10;|参数名|类型|说明|&#10;|:-----  |:-----|-----                           |&#10;|groupid |int   |用户组id，1：超级管理员；2：普通用户  |&#10;&#10; **备注** &#10;&#10;- 更多返回错误代码请看首页的错误代码描述" description="api template" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="false" />
-      <option name="XML" value="false" />
-      <option name="JSON" value="false" />
-      <option name="JAVA_CODE" value="false" />
+      <option name="ASPECTJ" value="false" />
       <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="SQL" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="GROOVY" value="false" />
-      <option name="MAVEN" value="false" />
-      <option name="ASPECTJ" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="JSP" value="false" />
       <option name="GSP" value="false" />
-      <option name="KOTLIN" value="false" />
       <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
     </context>
   </template>
   <template name="mdTable" value="|字段|类型|空|默认|注释|&#10;|:----    |:-------    |:--- |-- -|------      |&#10;|uid&#9;  |int(10)     |否&#9; |&#9;  |&#9;           |&#10;|username |varchar(20) |否&#9; |    |&#9; 用户名&#9;   |&#10;|password |varchar(50) |否   |    |&#9; 密码&#9;   |&#10;|name     |varchar(15) |是   |    |    昵称     |&#10;|reg_time |int(11)     |否   | 0  |   注册时间   |" description="表格" toReformat="false" toShortenFQNames="true">

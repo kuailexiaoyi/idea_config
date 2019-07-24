@@ -2,30 +2,24 @@
   <template name="sout" value="println(s&quot;$EXPR_COPY$ = $${$EXPR$}&quot;)" description="Template for expressions output" toReformat="true" toShortenFQNames="true">
     <variable name="EXPR" expression="scalaVariableOfType(&quot;&quot;)" defaultValue="false" alwaysStopAt="true" />
     <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
-    <context />
   </template>
   <template name="T" value="&lt;$TAG$&gt;$SELECTION$&lt;/$TAGNAME$&gt;&#10;" description="Surround with &lt;tag&gt;&lt;/tag&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
-    <context />
   </template>
   <template name="lam" value="($START$)=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="lam1" value="($VAR1$)=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="scala_typeOfVariable" defaultValue="el" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="lam2" value="($VAR1$,$VAR2$)=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="scalaVariableOfType(&quot;&quot;)" defaultValue="a" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="b" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="lam3" value="($VAR1$,$VAR2$,$VAR3$)=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="scalaVariableOfType" defaultValue="a" alwaysStopAt="true" />
     <variable name="VAR2" expression="scalaVariableOfType" defaultValue="b" alwaysStopAt="true" />
     <variable name="VAR3" expression="scalaVariableOfType" defaultValue="c" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>

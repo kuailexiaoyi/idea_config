@@ -7,8 +7,8 @@
   <template name="comment" value="   /**&#10;    * @Description:&#10;    * @Param [file, request]&#10;    * @Return java.lang.String&#10;    * @Author: zrblog&#10;    * @Date: 2018/10/20 22:02&#10;    */" shortcut="ENTER" description="为函数添加注释" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
-      <option name="XML" value="true" />
       <option name="JAVA_CODE" value="true" />
+      <option name="XML" value="true" />
     </context>
   </template>
 </templateSet>
