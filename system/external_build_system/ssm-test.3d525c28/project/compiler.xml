@@ -1,0 +1,8 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="springboot-hello" target="1.8" />
+      <module name="ssm-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

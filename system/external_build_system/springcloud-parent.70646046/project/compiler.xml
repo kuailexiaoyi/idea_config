@@ -1,0 +1,11 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="10_consul-client-service" target="1.7" />
+      <module name="10_consul-server-service" target="1.7" />
+      <module name="1_eureka-client" target="1.7" />
+      <module name="1_eureka-server" target="1.7" />
+      <module name="map-test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

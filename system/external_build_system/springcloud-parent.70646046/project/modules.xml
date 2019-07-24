@@ -1,0 +1,11 @@
+<project>
+  <component name="ExternalModuleListStorage">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_consul-client-service/10_consul-client-service.iml" filepath="$PROJECT_DIR$/10_consul-client-service/10_consul-client-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_consul-server-service/10_consul-server-service.iml" filepath="$PROJECT_DIR$/10_consul-server-service/10_consul-server-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_eurekaclient/1_eureka-client.iml" filepath="$PROJECT_DIR$/1_eurekaclient/1_eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_eurekaserver/1_eureka-server.iml" filepath="$PROJECT_DIR$/1_eurekaserver/1_eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map-test/map-test.iml" filepath="$PROJECT_DIR$/map-test/map-test.iml" />
+    </modules>
+  </component>
+</project>

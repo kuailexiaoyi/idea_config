@@ -1,0 +1,8 @@
+<project>
+  <component name="ExternalModuleListStorage">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-hello/springboot-hello.iml" filepath="$PROJECT_DIR$/springboot-hello/springboot-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-test.iml" filepath="$PROJECT_DIR$/ssm-test.iml" />
+    </modules>
+  </component>
+</project>
